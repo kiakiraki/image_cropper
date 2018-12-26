@@ -1,0 +1,10 @@
+- target_path: /path/to/target/dir
+  output_path: /path/to/output/dir
+  ext: jpg
+  output_header: crop
+  bbox:
+    - 
+      - 23
+      - 177
+      - 684
+      - 675
